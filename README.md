@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+
+![GPS Tracking](https://user-images.githubusercontent.com/113075791/206075067-0744e2af-084c-4985-9e19-ed42cc0d4dcb.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
